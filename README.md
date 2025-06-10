@@ -3,7 +3,7 @@
 🎯 **Analista de Cibersegurança | Engenharia Elétrica | Automação e Dados**  
 🔐 Apaixonado por segurança da informação, com foco em defesa cibernética, análise de logs, SIEM e automação segura de processos.
 
-💼 Atualmente atuando com inovação tecnológica e segurança de sistemas no setor de energia elétrica.  
+💼 Atualmente atuando com inovação tecnológica e análise de dados no setor de energia elétrica. Me preparando para tirar a certificaçao da Security+  
 🎓 Certificado pelo Google em Cybersecurity | Engenheiro formado pela UFPI  
 📍 São Luís - MA, Brasil
 
